@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Mohamed Ali Walha AKA "M3dnux"</h1>
 <h3 align="center">A passionate fullstack developer from Tunisia</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGZkMGNlNDAxMTQ1MGNiNDk5MGFhZmQ5MWZkMzUzZTY1NDdmOGNmOSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy_s.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif">
 
 - 🌱 I’m currently learning **The Odin Project Courses**
 
