@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Mohamed Ali Walha AKA "M3dnux"</h1>
+![Header](./github-header-image.png)
 <h3 align="center">A passionate fullstack developer from Tunisia</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif">
 
