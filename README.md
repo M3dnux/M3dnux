@@ -13,7 +13,7 @@
 <a href="https://linkedin.com/in/walha-med-ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="walha-med-ali" height="30" width="40" /></a>
 <a href="https://fb.com/m3dnux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m3dnux" height="30" width="40" /></a>
 <a href="https://instagram.com/walha_med.ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="walha_med.ali" height="30" width="40" /></a>
-<a href="https://discord.gg/#1174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#1174" height="30" width="40" /></a>
+<a href="https://discord.gg/M3dnux#1174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#1174" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
