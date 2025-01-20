@@ -1,12 +1,12 @@
 ![Header](./github-header-image.png)
-<h3 align="center">A passionate fullstack developer from Tunisia</h3>
+<h3 align="center">A passionate Full-Stack developer from Tunisia</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif">
 
 - 🌱 I’m currently learning **The Odin Project Courses**
 
-- 💬 Ask me about **.NET Framework**
+- 💬 Ask me about **Spring Boot Framework**
 
-- 📫 How to reach me **walha_med.ali@outlook.fr**
+- 📫 How to reach me **walhamohamedali@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
